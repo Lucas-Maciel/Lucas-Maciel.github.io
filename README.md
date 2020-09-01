@@ -12,10 +12,10 @@
 
 ## Publications
 <ul>
-  <li>**Maciel L.F.**; Morales-Vicente D.A.; Verjovski-Almeida S. **Dynamic Expression of Long Non-Coding RNAs Throughout Parasite Sexual and Neural Maturation in Schistosoma Japonicum.** Non-Coding RNA, 2020.</li>
-  <li>**Maciel L.F.**; Morales-Vicente D.A.; Silveira G.O.; Ribeiro R.O.; Olberg G.G.O.; Pires D.S.; Amaral M.S.; Verjovski-Almeida S. **Weighted Gene Co-Expression Analyses Point to Long Non-Coding RNA Hub Genes at Different Schistosoma mansoni Life-Cycle Stages.** Frontiers in Genetics, 2019.</li>
-  <li>Carvalho E.L.; **Maciel L.F.**; Macedo P.E.; Dezordi F.Z.; Abreu M.E.T.; Victória F.C.; Pereira A.B.; Boldo J.T.; Wallau G.L.; Pinto P.M. **De novo Assembly and Annotation of the Antarctic Alga Prasiola crispa Transcriptome.** Frontiers in Molecular Bioscience, 2018.</li> 
-  <li>Carrazoni T.; Nguyen. C.; **Maciel L.F.**; Delgado-Cañedo A.; Stewart B.A.; Lange A.B.; Dal Belo C.A. Carlini C.R.; Orchard I. **Jack bean urease modulates neurotransmitter release at insect neuromuscular junctions.** Pesticide Biochemistry and Physiology, 2018</li>
+  <li><b>Maciel L.F.</b>; Morales-Vicente D.A.; Verjovski-Almeida S. <b>Dynamic Expression of Long Non-Coding RNAs Throughout Parasite Sexual and Neural Maturation in Schistosoma Japonicum.</b> Non-Coding RNA, 2020.</li>
+  <li><b>Maciel L.F.</b>; Morales-Vicente D.A.; Silveira G.O.; Ribeiro R.O.; Olberg G.G.O.; Pires D.S.; Amaral M.S.; Verjovski-Almeida S. <b>Weighted Gene Co-Expression Analyses Point to Long Non-Coding RNA Hub Genes at Different Schistosoma mansoni Life-Cycle Stages.</b> Frontiers in Genetics, 2019.</li>
+  <li>Carvalho E.L.; <b>Maciel L.F.</b>; Macedo P.E.; Dezordi F.Z.; Abreu M.E.T.; Victória F.C.; Pereira A.B.; Boldo J.T.; Wallau G.L.; Pinto P.M. <b>De novo Assembly and Annotation of the Antarctic Alga Prasiola crispa Transcriptome.</b> Frontiers in Molecular Bioscience, 2018.</li> 
+  <li>Carrazoni T.; Nguyen. C.; <b>Maciel L.F.</b>; Delgado-Cañedo A.; Stewart B.A.; Lange A.B.; Dal Belo C.A. Carlini C.R.; Orchard I. <b>Jack bean urease modulates neurotransmitter release at insect neuromuscular junctions.</b> Pesticide Biochemistry and Physiology, 2018</li>
  </ul>
 
 
