@@ -1,7 +1,7 @@
 ## Experience
 
 **Centro Nacional de Pesquisa em Energia e Materiais (CNPEM) | Bioinformatician** <br> Feb 2020 - Present
-<ul>  <li>Analyses of second and third generation data sequencing from RNA-Seq, metagenomes Schistosomiasis and metatranscriptomes to identify enzymes with biotechnological potential.</li></ul>
+<li>Analyses of second and third generation data sequencing from RNA-Seq, metagenomes and metatranscriptomes to identify enzymes with biotechnological potential.</li>
 
 **Biogenetika | Consultant Bioinformatician** <br> Ago 2020 - Present
 <ul>  <li>Pipeline development and server administration to perform metagenomic analyses.</li> </ul>
