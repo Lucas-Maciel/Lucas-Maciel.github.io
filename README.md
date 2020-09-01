@@ -1,18 +1,18 @@
 ## Experience
 
-**Centro Nacional de Pesquisa em Energia e Materiais (CNPEM) | Bioinformatician**
+**Centro Nacional de Pesquisa em Energia e Materiais (CNPEM) | Bioinformatician** <br>
 Feb 2020 - Present
 <ul>
   <li>Analyses of second and third generation data sequencing from RNA-Seq, metagenomes Schistosomiasis and metatranscriptomes to identify enzymes with biotechnological potential.</li>
 </ul>
 
-**Biogenetika | Consultant Bioinformatician**
+**Biogenetika | Consultant Bioinformatician** <br>
 Ago 2020 - Present
 <ul>
   <li>Pipeline development and server administration to perform metagenomic analyses.</li>
 </ul>
 
-**Grupo Genera | Consultant Bioinformatician**
+**Grupo Genera | Consultant Bioinformatician** <br>
 Oct 2019 - Feb 2020
 <ul> 
   <li>Pipeline development for ancestry inference using SNPs panels.</li>
