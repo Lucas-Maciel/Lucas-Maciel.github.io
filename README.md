@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+## Experience
 
-You can use the [editor on GitHub](https://github.com/programming-liftoff/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Centro Nacional de Pesquisa em Energia e Materiais (CNPEM) | Bioinformatician
+Feb 2020 - Present
+Analyses of second and third generation data sequencing from RNA-Seq, metagenomes Schistosomiasis and metatranscriptomes to identify enzymes with biotechnological potential.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Biogenetika | Consultant Bioinformatician
+Ago 2020 - Present
+Pipeline development and server administration to perform metagenomic analyses.
+
+Grupo Genera | Consultant Bioinformatician
+Oct 2019 - Feb 2020
+Pipeline development for ancestry inference using SNPs panels.
+
 
 ### Markdown
 
