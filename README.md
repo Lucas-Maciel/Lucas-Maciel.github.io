@@ -11,6 +11,7 @@
 
 
 ## Publications
+# 2020
 <ul>
   <li><b>Maciel L.F.</b>; Verjovski-Almeida S. <b>Step-by-Step Bioinformatics Analysis of Schistosoma mansoni Long Non-coding RNA Sequences</b>. In: Schistosoma mansoni. Methods in Molecular Biology, vol 2151. Humana, New York, NY, 2020.</li>
   <li><b>Maciel L.F.</b>; Morales-Vicente D.A.; Verjovski-Almeida S. <b>Dynamic Expression of Long Non-Coding RNAs Throughout Parasite Sexual and Neural Maturation in Schistosoma Japonicum.</b> Non-Coding RNA, 2020.</li>
