@@ -3,9 +3,8 @@
 **Centro Nacional de Pesquisa em Energia e Materiais (CNPEM) | Bioinformatician** <br> Feb 2020 - Present
 <ul><li>Analyses of second and third generation data sequencing from RNA-Seq, metagenomes and metatranscriptomes to identify enzymes with biotechnological potential.</li></ul>
 
-**Biogenetika | Consultant Bioinformatician** <br> Ago 2020 - Present <br>
-• Pipeline development and server administration to perform metagenomic analyses.
-<br><br>
+**Biogenetika | Consultant Bioinformatician** <br> Ago 2020 - Present
+<ul><li>Pipeline development and server administration to perform metagenomic analyses.</ul></li>
 
 **Grupo Genera | Consultant Bioinformatician** <br> Oct 2019 - Feb 2020
 <ul> <li>Pipeline development for ancestry inference using SNPs panels.</li> </ul>
