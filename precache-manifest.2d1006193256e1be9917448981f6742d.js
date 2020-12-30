@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29ba3f6d8355d2a6d029e8a7d1d6064f",
+    "revision": "9ea1ce09a09f4217329d9cde45988594",
     "url": "/index.html"
   },
   {
-    "revision": "f8390e278076cc56fe4c",
+    "revision": "970ca4c1c6e71ae92582",
     "url": "/static/css/main.765ad526.chunk.css"
   },
   {
-    "revision": "100d898244fd5efa3738",
-    "url": "/static/js/2.46d14ce5.chunk.js"
+    "revision": "c213dafa21f96a0707bc",
+    "url": "/static/js/2.d447f32a.chunk.js"
   },
   {
-    "revision": "f8390e278076cc56fe4c",
-    "url": "/static/js/main.354b5b0f.chunk.js"
+    "revision": "970ca4c1c6e71ae92582",
+    "url": "/static/js/main.558f2798.chunk.js"
   },
   {
     "revision": "ca2950aef496a8f8ee32",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "5f291f5238e12705462f9a952c82ce94",
+    "url": "/static/media/Bioinformatics.5f291f52.png"
   },
   {
     "revision": "e03aac2cad9c475163d18eb811a98eb5",
@@ -70,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b6b12c7d07e0569e771c8aedf81a7767",
     "url": "/static/media/blogs_image.b6b12c7d.svg"
+  },
+  {
+    "revision": "e26bbb967fa4dcff52be98b0c8dd500f",
+    "url": "/static/media/butantan.e26bbb96.png"
   },
   {
     "revision": "dfcb7a585547c0b125d208b980d6f57f",
