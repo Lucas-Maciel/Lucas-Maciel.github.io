@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ea1ce09a09f4217329d9cde45988594",
+    "revision": "920ffba139dbc34e048552c009e07680",
     "url": "/index.html"
   },
   {
-    "revision": "970ca4c1c6e71ae92582",
-    "url": "/static/css/main.765ad526.chunk.css"
+    "revision": "907f548bf9c78fab7900",
+    "url": "/static/css/main.5ec6c49f.chunk.css"
   },
   {
-    "revision": "c213dafa21f96a0707bc",
-    "url": "/static/js/2.d447f32a.chunk.js"
+    "revision": "a9b9b651d9c403410a80",
+    "url": "/static/js/2.5230629f.chunk.js"
   },
   {
-    "revision": "970ca4c1c6e71ae92582",
-    "url": "/static/js/main.558f2798.chunk.js"
+    "revision": "907f548bf9c78fab7900",
+    "url": "/static/js/main.2d1730bb.chunk.js"
   },
   {
     "revision": "ca2950aef496a8f8ee32",
@@ -56,8 +56,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/GoogleSans-Regular.b5c77a6a.ttf"
   },
   {
+    "revision": "059eda1550510a441306661ae8725d45",
+    "url": "/static/media/Identificação GH158 · Benchling.059eda15.pdf"
+  },
+  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "a20011fa61520b43b4625ff33149210b",
+    "url": "/static/media/VIB.a20011fa.jpeg"
   },
   {
     "revision": "3b021f8ffcf9f323ea72abc28382e234",
@@ -274,6 +282,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3d1bf55b11f8224d60726af9291214d5",
     "url": "/static/media/ui_ux_design.3d1bf55b.svg"
+  },
+  {
+    "revision": "736e3c85c858c524f455dec70bd15a12",
+    "url": "/static/media/unipampa2.736e3c85.png"
+  },
+  {
+    "revision": "7c2b2746d46248ef502c239bd81a0b22",
+    "url": "/static/media/unipampa2.7c2b2746.jpg"
+  },
+  {
+    "revision": "e277b73802953acd7e5c284454c7090e",
+    "url": "/static/media/unipampa3.e277b738.png"
   },
   {
     "revision": "740ad1a7b889d10093b654d35aa5a550",

@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.765ad526.chunk.css",
-    "main.js": "/static/js/main.558f2798.chunk.js",
-    "main.js.map": "/static/js/main.558f2798.chunk.js.map",
+    "main.css": "/static/css/main.5ec6c49f.chunk.css",
+    "main.js": "/static/js/main.2d1730bb.chunk.js",
+    "main.js.map": "/static/js/main.2d1730bb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dc7749b2.js",
     "runtime-main.js.map": "/static/js/runtime-main.dc7749b2.js.map",
-    "static/js/2.d447f32a.chunk.js": "/static/js/2.d447f32a.chunk.js",
-    "static/js/2.d447f32a.chunk.js.map": "/static/js/2.d447f32a.chunk.js.map",
+    "static/js/2.5230629f.chunk.js": "/static/js/2.5230629f.chunk.js",
+    "static/js/2.5230629f.chunk.js.map": "/static/js/2.5230629f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2d1006193256e1be9917448981f6742d.js": "/precache-manifest.2d1006193256e1be9917448981f6742d.js",
+    "precache-manifest.6690d6b03c226dd683543864788ddd90.js": "/precache-manifest.6690d6b03c226dd683543864788ddd90.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.765ad526.chunk.css.map": "/static/css/main.765ad526.chunk.css.map",
+    "static/css/main.5ec6c49f.chunk.css.map": "/static/css/main.5ec6c49f.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Bioinformatics.png": "/static/media/Bioinformatics.5f291f52.png",
     "static/media/CNPEM.jpg": "/static/media/CNPEM.e03aac2c.jpg",
+    "static/media/Identificação GH158 · Benchling.pdf": "/static/media/Identificação GH158 · Benchling.059eda15.pdf",
+    "static/media/VIB.jpeg": "/static/media/VIB.a20011fa.jpeg",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.6c8410d0.png",
     "static/media/animated_logo.svg": "/static/media/animated_logo.52e0714e.svg",
@@ -54,12 +56,15 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.b48e86c9.svg",
     "static/media/teste.png": "/static/media/teste.c040b7ff.png",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.3d1bf55b.svg",
+    "static/media/unipampa2.png": "/static/media/unipampa2.736e3c85.png",
+    "static/media/unipampa2.jpg": "/static/media/unipampa2.7c2b2746.jpg",
+    "static/media/unipampa3.png": "/static/media/unipampa3.e277b738.png",
     "static/media/usp.png": "/static/media/usp.740ad1a7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.dc7749b2.js",
-    "static/js/2.d447f32a.chunk.js",
-    "static/css/main.765ad526.chunk.css",
-    "static/js/main.558f2798.chunk.js"
+    "static/js/2.5230629f.chunk.js",
+    "static/css/main.5ec6c49f.chunk.css",
+    "static/js/main.2d1730bb.chunk.js"
   ]
 }
